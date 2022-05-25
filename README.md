@@ -1,8 +1,7 @@
 # Taxi Service Web Application
 It's a simple taxi service web application, which simulates the work of a taxi service and supports authentication and interaction with the database.
 
-### Run online version deployment on Heroku
-https://ttaxi-service.herokuapp.com/
+### You can run this version deployment on Heroku [online](https://ttaxi-service.herokuapp.com/login)
 
 ### Functional:
 - Display all Drivers

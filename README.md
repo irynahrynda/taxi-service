@@ -1,6 +1,9 @@
 # Taxi Service Web Application
 It's a simple taxi service web application, which simulates the work of a taxi service and supports authentication and interaction with the database.
 
+### Run online version deployment on Heroku
+https://ttaxi-service.herokuapp.com/
+
 ### Functional:
 - Display all Drivers
 - Display all Cars
@@ -36,6 +39,3 @@ It's a simple taxi service web application, which simulates the work of a taxi s
    (Be careful with adding URL. You should add a Timezone to it too)
 8. Configure your Tomcat. (P.S. Your application context needs to be as "/")
 9. Run this project using Tomcat's local server
-
-
-

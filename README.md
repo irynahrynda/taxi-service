@@ -36,5 +36,6 @@ It's a simple taxi service web application, which simulates the work of a taxi s
 6. Add some data to DB
 7. Go to the ConnectionUtil class located in src/main/java/taxi/util and add your url to DB, login, password and JDBC driver there.
    (Be careful with adding URL. You should add a Timezone to it too)
-8. Configure your Tomcat. (P.S. Your application context needs to be as "/")
-9. Run this project using Tomcat's local server
+8. Configure log4j2.xml from resources directory. Add correct path to the app.log file
+9. Configure your Tomcat. (P.S. Your application context needs to be as "/")
+10. Run this project using Tomcat's local server
